@@ -1,0 +1,11 @@
+﻿  소스.c
+C:\데구조\data-structure-lab-2026\Project2\Project2\소스.c(10,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\데구조\data-structure-lab-2026\Project2\Project2\소스.c(10,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) char *' 형식의 인수 1과(와) 충돌합니다.
+C:\데구조\data-structure-lab-2026\Project2\Project2\소스.c(10,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+C:\데구조\data-structure-lab-2026\Project2\Project2\소스.c(10,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) char *' 형식의 인수 2과(와) 충돌합니다.
+C:\데구조\data-structure-lab-2026\Project2\Project2\소스.c(11,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\데구조\data-structure-lab-2026\Project2\Project2\소스.c(11,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) char *' 형식의 인수 1과(와) 충돌합니다.
+C:\데구조\data-structure-lab-2026\Project2\Project2\소스.c(6,7): warning C4101: 'string2' :참조되지 않은 지역 변수입니다.
+C:\데구조\data-structure-lab-2026\Project2\Project2\소스.c(4,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\데구조\data-structure-lab-2026\Project2\Project2\소스.c(7,8): warning C4101: 'ptr2' :참조되지 않은 지역 변수입니다.
+  Project2.vcxproj -> C:\데구조\data-structure-lab-2026\Project2\x64\Debug\Project2.exe
